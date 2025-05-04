@@ -7,7 +7,7 @@ simple lab management system using python and tkinter
 3. You might need to install tkinter using the following command ( pip install tkinter )
       
 
-#Details
+# Details
 
 1. Conditions
    1. Number of labs.
@@ -17,4 +17,4 @@ simple lab management system using python and tkinter
    5. Classes will be assigned in hours. Once a lab is assigned to the class the lab will not be free to be assigned to another class untill the time duration is over.
    6. Stores the records of classes assigned it what time what date in a csv file.
 
-#open for Collaboration
+# open for Collaboration
